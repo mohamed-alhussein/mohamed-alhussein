@@ -16,6 +16,9 @@ I’m learning, building, solving problems, and turning knowledge into real proj
 ### 🎯 Goal
 Learn • Build • Solve • Improve
 
+## 🚀 Projects
+- [Abu Hadhoud - Course 05 Solutions](https://github.com/mohamed-alhussein/Abu-Hadhoud-Course-05-Solutions)
+
 <!--
 **mohamed-alhussein/mohamed-alhussein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
