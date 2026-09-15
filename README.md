@@ -1,4 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Al-Hussein
+
+🎓 Information Engineering Student  
+🚀 Full Stack Developer in Progress  
+🛡️ Cybersecurity | Blue Team  
+
+### 💻 My Journey
+I’m learning, building, solving problems, and turning knowledge into real projects.
+
+### 🛠️ Currently Learning
+- C++
+- Full Stack Development
+- Cybersecurity & Blue Team
+- Git & GitHub
+
+### 🎯 Goal
+Learn • Build • Solve • Improve
 
 <!--
 **mohamed-alhussein/mohamed-alhussein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
