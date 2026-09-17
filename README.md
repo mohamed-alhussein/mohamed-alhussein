@@ -8,10 +8,11 @@
 I’m learning, building, solving problems, and turning knowledge into real projects.
 
 ### 🛠️ Currently Learning
-👨‍💻 Information Engineering Student
-🚀 Learning Full Stack Development
-🛡️ Cybersecurity | Networking | Linux
-💻 C++ | Problem Solving
+- Information Engineering Student
+- Learning Full Stack Development
+- Cybersecurity | Networking | Linux
+- C++ | Problem Solving
+- Git & GitHub
 ### 🎯 Goal
 Learn • Build • Solve • Improve
 
